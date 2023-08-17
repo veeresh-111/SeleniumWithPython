@@ -1,0 +1,158 @@
+1687421558395	geckodriver	INFO	Listening on 127.0.0.1:50984
+1687421561509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileKQivfM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687421562226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687421562235	Marionette	INFO	Listening on port 50992
+Read port: 50992
+WebDriver BiDi listening on ws://127.0.0.1:50985
+1687421562544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50985/devtools/browser/8f03e55c-d40b-4a6f-86dc-3efee9d8fe74
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/02/file-sample_100kB.doc
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qZsn1HeCCcmFdGByhVB6w33s6gTjWS7DN31yxJZZZvY.js line 2 > eval line 542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1687423042361	Marionette	INFO	Stopped listening on port 50992
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilekXbFPN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687421861483	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687421861515	Marionette	INFO	Listening on port 51084
+Read port: 51084
+WebDriver BiDi listening on ws://127.0.0.1:51077
+1687421861927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51077/devtools/browser/073acc53-08d5-4ee0-b03a-3e6d03693b07
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/02/file-sample_100kB.doc
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qZsn1HeCCcmFdGByhVB6w33s6gTjWS7DN31yxJZZZvY.js line 2 > eval line 5587 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1687423041209	Marionette	INFO	Stopped listening on port 51084
+Dynamically enable window occlusion 1
+1687428124563	geckodriver	INFO	Listening on 127.0.0.1:50398
+1687428127584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilewLceXT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687428129019	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687428129047	Marionette	INFO	Listening on port 50406
+Read port: 50406
+WebDriver BiDi listening on ws://127.0.0.1:50399
+1687428129628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50399/devtools/browser/ca32c942-7a84-490f-96de-92688f674042
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/10/file-sample_150kB.pdf
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qZsn1HeCCcmFdGByhVB6w33s6gTjWS7DN31yxJZZZvY.js line 2 > eval line 5357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+1687428167757	Marionette	INFO	Stopped listening on port 50406
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1687428199384	geckodriver	INFO	Listening on 127.0.0.1:50482
+1687428202459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQnZXZ1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687428203044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687428203051	Marionette	INFO	Listening on port 50490
+Read port: 50490
+WebDriver BiDi listening on ws://127.0.0.1:50483
+1687428203359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50483/devtools/browser/a1519a3f-edc5-496d-a50b-0a1f393ffda5
+1687428212194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/10/file-sample_150kB.pdf
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qZsn1HeCCcmFdGByhVB6w33s6gTjWS7DN31yxJZZZvY.js line 2 > eval line 7805 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+1687428238587	Marionette	INFO	Stopped listening on port 50490
+Dynamically enable window occlusion 1
+1687428475821	geckodriver	INFO	Listening on 127.0.0.1:50571
+1687428478927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileqnNEMY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687428479552	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687428479559	Marionette	INFO	Listening on port 50580
+Read port: 50580
+WebDriver BiDi listening on ws://127.0.0.1:50572
+1687428479877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50572/devtools/browser/d5139990-01d8-4109-b92c-87237d58a29d
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/10/file-sample_150kB.pdf
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1687428767066	Marionette	INFO	Stopped listening on port 50580
+Dynamically enable window occlusion 1
+1688220453986	geckodriver	INFO	Listening on 127.0.0.1:56943
+1688220457110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileYHknWL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688220460535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688220460549	Marionette	INFO	Listening on port 56951
+Read port: 56951
+WebDriver BiDi listening on ws://127.0.0.1:56944
+1688220461635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56944/devtools/browser/143f1387-7829-4fc7-bd7a-b9e40bc5d0ea
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/02/file-sample_100kB.doc
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AOiihYbjk7GyPSPexE3PorOKRXoofTPF8NjvkAglc4c.js line 2 > eval line 2658 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1688220514077	Marionette	INFO	Stopped listening on port 56951
+Dynamically enable window occlusion 1
+1688220649641	geckodriver	INFO	Listening on 127.0.0.1:57048
+1688220652676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4af3Hr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688220653350	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688220653356	Marionette	INFO	Listening on port 57056
+Read port: 57056
+WebDriver BiDi listening on ws://127.0.0.1:57049
+1688220653680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57049/devtools/browser/ff45d984-999c-4e40-aff3-da2dc363d5af
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/10/file-sample_150kB.pdf
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AOiihYbjk7GyPSPexE3PorOKRXoofTPF8NjvkAglc4c.js line 2 > eval line 1170 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+JavaScript error: resource://gre/modules/pdfjs.sys.mjs, line 27: NS_ERROR_FACTORY_NOT_REGISTERED: 
+1688220694290	Marionette	INFO	Stopped listening on port 57056
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
